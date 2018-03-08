@@ -1,0 +1,5 @@
+"# Tanks" 
+"# Simulate" 
+echo "# Pygames" 
+echo "# To Play Simply Download pyagame module in python and python IDLE " 
+echo "# To Play Simply Download pygame module in python and python IDLE " 
